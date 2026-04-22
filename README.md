@@ -140,5 +140,5 @@ No external APIs. Fully reproducible offline.
 Thank you for the opportunity. I look forward to discussing these findings further.
 
 **Aryan Panwar**
-aryanpanwar1005@gmail.com
-[github.com/Aryanpanwar10005](https://github.com/Aryanpanwar10005)
+aryanpanwar10005@gmail.com
+[github.com/Aryanpanwar10005](https://github.com/Aryanpanwar10005/primetrade-ds-assignment)
