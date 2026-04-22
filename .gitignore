@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+.venv/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Data (large CSVs - download via assignment links in README)
+data/*.csv
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# OS
+*.tmp
+*.bak
