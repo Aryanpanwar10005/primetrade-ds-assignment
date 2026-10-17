@@ -4,7 +4,7 @@ visualizer.py
 Primetrade.ai — Professional Visualization Engine
 "Cyber-Dark" Institutional-Grade Plotting Suite
 
-Author: Aryan | Primetrade.ai Hiring Assignment
+Author: Aryan Panwar
 """
 
 import os

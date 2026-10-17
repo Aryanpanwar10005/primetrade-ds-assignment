@@ -15,7 +15,7 @@ build/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
 
-# Data (large CSVs - download via assignment links in README)
+# Data (large CSVs, download links in README)
 data/*.csv
 
 # IDEs
