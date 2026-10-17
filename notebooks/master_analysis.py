@@ -4,7 +4,7 @@ master_analysis.py
 Primetrade.ai — Full Analysis Pipeline
 Runs end-to-end: data ingestion -> preprocessing -> metric engineering -> visual export
 
-Author: Aryan | Primetrade.ai Hiring Assignment
+Author: Aryan Panwar
 Usage:
     python master_analysis.py
     (or import run_full_analysis from a notebook cell)
