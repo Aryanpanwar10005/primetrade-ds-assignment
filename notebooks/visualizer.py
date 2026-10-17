@@ -2,7 +2,7 @@
 visualizer.py
 =============
 Primetrade.ai — Professional Visualization Engine
-"Cyber-Dark" Institutional-Grade Plotting Suite
+Plotting helpers for the analysis charts (dark theme)
 
 Author: Aryan Panwar
 """
