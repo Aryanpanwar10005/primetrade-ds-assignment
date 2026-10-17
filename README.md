@@ -47,8 +47,6 @@ All numbers below come from the charts in `outputs/`, which the pipeline generat
 
 The other charts cover the cumulative PnL curve, PnL distribution by regime, trade size against the index score, win rate against the Sortino-style ratio per account, and the leverage proxy by regime and tier.
 
-Some figures in the notebook's closing notes and in `reports/` were written before these charts and don't match them. Where they differ, go by the charts.
-
 ## How to run
 
 The source CSVs aren't committed (about 93 MB combined). Put `historical_data.csv` and `fear_greed_index.csv` in a `data/` folder at the repo root, then:
@@ -83,8 +81,6 @@ Tech: Python, pandas, NumPy, matplotlib, seaborn, SciPy, Jupyter. No external AP
 │   ├── leverage_distribution_pro.png
 │   ├── leverage_performance_pro.png
 │   └── programmatic_backtest_pro.png
-├── reports/
-│   └── executive_visual_report.md   # Earlier long-form write-up with all charts
 └── requirements.txt
 ```
 
